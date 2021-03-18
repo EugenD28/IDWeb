@@ -1,1 +1,1 @@
-<?php echo"New message"
+<?php echo"Message will be replaced"
